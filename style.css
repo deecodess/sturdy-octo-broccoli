@@ -1,0 +1,242 @@
+/*.conti{
+  display:flex;
+  justify-content:center;
+  width:100%;
+  height:100vh;
+}*/
+
+#myVideo {
+  left:0;
+  top:0;
+  width: 100%;
+  height: 100%;
+}
+
+.hbday{
+  top: 25px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: 50px;
+  position: absolute;
+  font-size: 100px;
+  font-style: normal;
+  text-align: left;
+  font-family: UNIVERSAL SANS PERSONAL USE;
+}
+.desktop1-text02 {
+  top: 1000px;
+  left: 50px;
+  color: rgba(160, 145, 145, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Lato;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  word-wrap: normal;
+}
+.bachpan {
+  top: 1100px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  width: 929px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SWSimp;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1 {
+  top: 1300px;
+  left: 50px;
+  width: 1190px;
+  height: 832px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop1-text05 {
+  color: rgba(0, 0, 0, 1);
+  width: 409px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 900px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 409px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+.fewbirthdayslater {
+  top: 2300px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SWSimp;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.group2{
+    top: 2600px;
+    left: 15px;
+    width: 1174px;
+    height: 1093px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.thenks {
+  top: 4200px;
+  left: 85px;
+  color: rgba(255, 255, 255, 1);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 1px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  word-wrap: normal;
+}
+.onceagain {
+  top: 3800px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 269px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: shalma;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.deepu{
+    top: 4300px;
+    left: 335px;
+    color: rgb(0, 0, 0);
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width:700px){
+
+
+#myvideo {
+  top:0;
+  left:0;
+  width:auto;
+  height:479.9px;
+  
+}
+.hbday{
+  top:10px;
+  left:10px;
+  width: auto;
+  margin-left:10px;
+  height:479.9px;
+  font-size:30px;
+}
+.desktop1-text02 {
+top: 300px;
+left: 10px;
+width:330px;
+font-size:10px;
+}
+.bachpan{
+top: 400px;
+left:55px;
+font-size:15px;
+width:280px;
+}
+.fewbirthdayslater{
+top: 850px;
+left:60px;
+font-size:20px;
+width:250px;
+}
+.group1{
+    top: 500px;
+    left: 20px;
+    width: 300px;
+    height: 250px;
+}
+.group2{
+    top:970px;
+    left:10px;
+    width:349.08px;
+  height:325px;
+}
+.onceagain{
+    top: 1370px;
+    left: 20px;
+    font-size:40px;
+    width:300px;
+    font-family:SWSimp;
+}
+.deepu{
+    top: 1700px;
+    left: 130px;
+    font-size:10px;
+    font-family:roboto;
+    
+}
+.thenks{
+  top: 1400px;
+  left:0px;
+  font-size:1px;
+  width:20px;
+}
+}
